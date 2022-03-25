@@ -1,5 +1,5 @@
 # IS1200Datorteknik
-Kursinnehåll
+# Kursinnehåll
 Kursen ger grundläggande kunskaper om hur en dator fungerar och är uppbyggd, både ur hårdvaru- och programvaruperspektiv. Kursen är uppdelad i sex olika moduler, vilka bland annat inkluderar följande grundläggande begrepp och koncept:
 
 C-programmering och assemblerspråk: pekare, funktioner, stack, assemblerspråk, maskinspråk, instruktionskodning och processorregister.
@@ -11,7 +11,7 @@ Parallella processorer och program: Amdahls lag, olika varianter av parallellism
 Notera att modul 3 är rekommenderad förkunskap till kursen och kommer inte att behandlas på föreläsningar eller laborationer. Dock kommer materialet för modul 3 vara tillgängligt på kurshemsidan, då det är förkunskap till modul 4.
 
 
-Lärandemål
+# Lärandemål
 Efter godkänd kurs ska studenten kunna
 
 konstruera maskinnära program i programspråket C och i assemblerspråk
