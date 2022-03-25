@@ -8,7 +8,7 @@ Digital design: sanningstabeller, grindar, boolesk algebra, multiplexer, avkodar
 Processorkonstruktion: aritmetisk-logisk enhet, dataväg (datapath), styrenhet och pipeline.
 Minneshierarkier: instruktionscache, datacache och virtuellt minne.
 Parallella processorer och program: Amdahls lag, olika varianter av parallellism, samt multicore.
-Notera att modul 3 är rekommenderad förkunskap till kursen och kommer inte att behandlas på föreläsningar eller laborationer. Dock kommer materialet för modul 3 vara tillgängligt på kurshemsidan, då det är förkunskap till modul 4.
+
 
 
 # Lärandemål
